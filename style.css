@@ -165,7 +165,7 @@ section .title::after{
 /* home section styling */
 .home{
     display: flex;
-    background: url("banner.png") no-repeat center;
+    background: url("adedited.jpeg") no-repeat center;
     height: 100vh;
     color: #fff;
     min-height: 500px;
@@ -683,4 +683,5 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+
 
